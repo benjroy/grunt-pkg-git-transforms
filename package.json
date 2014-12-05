@@ -24,7 +24,5 @@
     "url": "https://github.com/benjroy/grunt-pkg-git-transforms/issues"
   },
   "homepage": "https://github.com/benjroy/grunt-pkg-git-transforms",
-  "dependencies": {
-    "grunt": "^0.4.5"
-  }
+  "dependencies": {}
 }
