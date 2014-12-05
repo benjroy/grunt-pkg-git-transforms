@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/benjroy/grunt-pkg-git-transforms",
   "dependencies": {
-    "grunt": "^0.4.5",
-    "grunt-pkg-git-transforms": "git+ssh://git@github.com:benjroy/grunt-pkg-git-transforms.git"
+    "grunt": "^0.4.5"
   }
 }
